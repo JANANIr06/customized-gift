@@ -1,0 +1,75 @@
+.body{
+    background-color:burlywood;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+.nav
+{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    text-size-adjust: medium;
+}
+.nav img{
+    float:right;
+    height:30%;
+    width: 30%;
+}
+.card1
+{
+    margin-top: 100px;
+    display:inline-block;
+    padding:20px;
+}
+.card2
+{
+    text-align: center;
+    margin-top: 100px;
+    display:inline-block;
+    padding:20px;
+}
+.card3
+{
+    margin-top: 100px;
+    display:inline-block;
+    padding:20px;
+}
+.card4
+{
+    margin-top:100px;
+    display:inline-block;
+    padding:20px;
+}
+.card5
+{
+    margin-top:100px;
+    display:inline-block;
+    padding:20px;
+}
+.back{
+    background-color: blanchedalmond;
+
+}
+.back img{
+    float: right;
+    margin-top: -3%;
+    margin-right: 5%;
+    /* margin: 10px 10px 10px 10px; */
+    height:5%;
+    width:50% ;
+}
+.back h1 {
+      justify-content: center;
+      margin-left: 150px;
+      font-size: 35px;
+}
+.back p{
+    /* text-align: center; */
+    margin-left: 150px;
+    font-size: 20px;
+}
